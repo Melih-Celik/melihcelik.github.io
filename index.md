@@ -24,5 +24,7 @@ Computer Engineering Student in Istinye University. Always been passionate on le
 ```
 
 ### Support or Contact
+```
 E-mail: celikmelih54@gmail.com
 LinkedIn: https://www.linkedin.com/in/melih-celikk/
+```
